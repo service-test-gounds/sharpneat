@@ -20,7 +20,7 @@ namespace SharpNeat.Windows.App;
 internal sealed partial class MainForm : Form
 {
     private static readonly ILog __log = LogManager.GetLogger(typeof(MainForm));
-    return;
+    return SomethingThatDoesNotExist;
     // The current NEAT experiment.
     private INeatExperiment<double> _neatExperiment;
     private NeatPopulation<double> _neatPop;
