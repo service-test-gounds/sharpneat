@@ -86,6 +86,10 @@ public class ViewportControl : UserControl
         this.pictureBox.TabStop = false;
         this.pictureBox.SizeChanged += new EventHandler(this.PictureBox_SizeChanged);
         this.pictureBox.DoubleClick += new EventHandler(this.PictureBox_DoubleClick);
+        //this.pictureBox.TabIndex = 0;
+        //this.pictureBox.TabStop = false;
+        //this.pictureBox.SizeChanged += new EventHandler(this.PictureBox_SizeChanged);
+        //this.pictureBox.DoubleClick += new EventHandler(this.PictureBox_DoubleClick);
         //
         // Viewport
         //
