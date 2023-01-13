@@ -1,5 +1,4 @@
 # SharpNEAT - Evolution of Neural Networks
-Now with somw typos.
  
 NEAT is NeuroEvolution of Augmenting Topologies; an evolutionary algorithm devised by [Kenneth O. Stanley](https://en.wikipedia.org/wiki/Kenneth_Stanley). 
 
